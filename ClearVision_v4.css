@@ -15,7 +15,7 @@ ________/\\\\\\\\\__/\\\\\\_________________________________________________/\\\
          _______\/////////__\/////////____\//////////___\////////\//__\///________________\///________\///__\//////////__\///_____\/////_____\///____\///__
 */
 .account::after {
-    content: "ClearVision v4.2.1";
+    content: "We Are Number One";
     color: #fff;
     font-size: 12px;
     font-weight: 700;
@@ -1328,7 +1328,7 @@ textarea {
     background: rgba(255, 255, 255, 0.07) !important;
 }
 .channel-members .member .member-username {
-    font-size: 14px;
+    font-size: 17px;
 }
 .user-popout .user-popout-options .btn:hover {
     border: 1px solid var(--main-color);
